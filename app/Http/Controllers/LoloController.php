@@ -9,4 +9,8 @@ use Illuminate\Routing\Controller as BaseController;
 class LoloController extends BaseController
 {
     use AuthorizesRequests, ValidatesRequests;
+
+    public function lolo(){
+        return 45;
+    }
 }
