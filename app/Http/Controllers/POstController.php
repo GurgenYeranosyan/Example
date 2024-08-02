@@ -10,4 +10,9 @@ class POstController extends Controller
     {
         return '';
     }
+
+    public function dedededd()
+    {
+        return '';
+    }
 }
