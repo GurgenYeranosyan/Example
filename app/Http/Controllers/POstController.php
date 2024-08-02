@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class POstController extends Controller
 {
-    public function erkrord()
+    public function vvvvvvvvvvvv()
     {
         return '';
     }
