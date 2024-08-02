@@ -13,4 +13,8 @@ class LoloController extends BaseController
     public function lolo(){
         return 45;
     }
+
+    public function polo(){
+        return 13;
+    }
 }
