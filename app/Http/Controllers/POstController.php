@@ -11,7 +11,7 @@ class POstController extends Controller
         return '';
     }
 
-    public function e3e3e3e3e()
+    public function e3e3e3e223e()
     {
         return '';
     }
